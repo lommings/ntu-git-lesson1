@@ -1,8 +1,8 @@
 # NTU GIT CLASS EXERCISE 1
 
-Name
+Name 
 ----
-**Eugene Chang**
+**黃珮榮**
 
 Date
 ----
@@ -10,10 +10,10 @@ Date
 
 Github Username
 ---------------
-**yuyueugene84**
+**looming**
 
 My Favorite Programming Language
 --------------------------------
 1. Ruby
-2. javascript
-3. python
+2. c++
+3. Html
